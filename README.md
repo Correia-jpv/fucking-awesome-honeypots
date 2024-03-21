@@ -86,6 +86,7 @@ Discover more awesome lists at <b><code>294645⭐</code></b> <b><code>&nbsp;2662
   - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;66⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;14🍴</code></b> [Ensnare](https://github.com/ahoernecke/ensnare)) - Easy to deploy Ruby honeypot.
   - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;29⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4🍴</code></b> [Helix](https://github.com/Zeerg/helix-honeypot)) - K8s API Honeypot with Active Defense Capabilities.
   - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;26⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;15🍴</code></b> [honeycomb_plugins](https://github.com/Cymmetria/honeycomb_plugins)) - Plugin repository for Honeycomb, the honeypot framework by Cymmetria.
+  - [honeydb](https://honeydb.io/downloads) - Multi-service honeypot that is easy to deploy and configure. Can be configured to send interaction data to to HoneyDB's centralized collectors for access via REST API.
   - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;52⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;12🍴</code></b> [honeyntp](https://github.com/fygrave/honeyntp)) - NTP logger/honeypot.
   - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;51⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;19🍴</code></b> [honeypot-camera](https://github.com/alexbredo/honeypot-camera)) - Observation camera honeypot.
   - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;27⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;14🍴</code></b> [honeypot-ftp](https://github.com/alexbredo/honeypot-ftp)) - FTP Honeypot.
