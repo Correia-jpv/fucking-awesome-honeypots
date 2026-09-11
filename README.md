@@ -144,6 +144,7 @@ Discover more awesome lists at <b><code>504652⭐</code></b> <b><code>&nbsp;3682
 
   - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;26⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4🍴</code></b> [canarytokendetector](https://github.com/referefref/canarytokendetector)) - Tool for detection and nullification of Thinkst CanaryTokens
   - <b><code>&nbsp;&nbsp;&nbsp;112⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8🍴</code></b> [honeydet](https://github.com/referefref/honeydet)) - Signature based honeypot detector tool written in Golang
+  - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2🍴</code></b> [honeypot-auditor](https://github.com/mziqudhd92/honeypot-auditor)) - Multi-protocol CLI that fingerprints low-interaction honeypots with auth/state probes and a weighted score.
   - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;60⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;12🍴</code></b> [kippo_detect](https://github.com/andrew-morris/kippo_detect)) - Offensive component that detects the presence of the kippo honeypot.
   - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;12⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4🍴</code></b> [potsnitch](https://github.com/f0rw4rd/potsnitch)) - Honeypot detection toolkit with protocol fingerprinting for 25+ honeypot types.
 
